@@ -1,6 +1,6 @@
 ## Hey there,
 
-I'm currently a Chemical Engineering student at Brigham Young University in Provo, UT. For the last 3 years, I've worked with Dr. David Lignell in the BYU Ignite Lab, developing a tabulated flame-progress variable approach for simulating fires with heat loss (the TableMaker repo). 
+I'm currently a Chemical Engineering student at Brigham Young University in Provo, UT. For the last 3 years, I've worked with Dr. David Lignell in the BYU Ignite Lab, developing a flamelet-progress variable approach for simulating fires with heat loss (the TableMaker repo). This work should be published in spring 2025.
 <!--
 **jwp91/jwp91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
